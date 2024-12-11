@@ -1,16 +1,18 @@
-## Hi there 👋
+#About me
 
-<!--
-**HemanthTechie/Hemanthtechie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Hi there, I'm Hemanth👋**
+A data analytics enthusiast passionate about turning raw data into actionable insights. I specialize in Python, SQL, and data visualization tools like Tableau and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Proficient in: Python, SQL, Tableau, Excel, Power BI.
+
+🧠 Interested in: Machine Learning and Business Intelligence.
+
+🌟 Completed certifications and case studies in data analytics.
+
+👯 I’m looking to collaborate on data analysis and visualization projects.
+
+⚡ Fun fact: I’m a huge fan of exploring how data shapes our daily lives—everything from predicting trends to making better coffee! ☕
+
+📫 How to reach me: hemanth.kuruba8050@gmail.com or https://www.linkedin.com/in/hemanth-kumar-m-analyst/.
+
